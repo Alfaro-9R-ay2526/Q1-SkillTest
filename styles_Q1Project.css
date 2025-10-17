@@ -1,0 +1,46 @@
+body{
+	background-color:lightyellow;
+}
+
+.Intro{
+	background-color: lightcoral;
+	width:30%;
+	padding:20px;
+	border: 3px solid black;
+	border-radius: 19px;
+	text-align: center;
+	margin-bottom:20px;
+}
+.abt{
+	background-color: lightblue;
+	width:30%;
+	padding:20px;
+	border: 3px solid black;
+	border-radius: 19px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.logo{
+	width: 100px;
+	height: 100px;
+}
+
+.LI{
+	background-color: #afdba7;
+	width:30%;
+	padding:20px;
+	border: 3px solid black;
+	border-radius: 19px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+.Inf{
+background-color: #be98d6;
+	width:30%;
+	padding:20px;
+	border: 3px solid black;
+	border-radius: 19px;
+	text-align: center;
+	margin-bottom: 20px;
+}
